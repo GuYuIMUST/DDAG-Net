@@ -284,6 +284,15 @@ Where:
 
 
 ---
+## 📦 Code Availability
+
+This repository currently serves as the **official project page** for PneumoMamba.
+
+> 🚧 **The full source code, pretrained models, and training scripts will be released after the paper is officially accepted.**
+
+This ensures compliance with journal and conference submission policies.
+
+
 
 ## ⭐ Acknowledgements
 
