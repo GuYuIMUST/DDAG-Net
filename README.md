@@ -218,10 +218,9 @@ python inference.py \
 The following metrics are commonly used for this framework:
 
 - Dice Similarity Coefficient (DSC)
-- Intersection over Union (IoU)
 - Sensitivity
-- Specificity
-- Average Surface Distance (ASD)
+- AUC
+- Froc-score
 - 95% Hausdorff Distance (HD95)
 
 ---
