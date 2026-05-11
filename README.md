@@ -128,7 +128,7 @@ A task-guided skip modulation mechanism is introduced to improve semantic consis
 
 ## 📂 Project Structure
 
-The following is a **recommended GitHub project layout** for this model:
+The following is a **GitHub project layout** for this model:
 
 ```bash
 DDAG-Net/
@@ -287,7 +287,7 @@ Where:
 
 ## ⭐ Acknowledgements
 
-This project is built upon the PyTorch deep learning framework and several open-source medical image segmentation projects.
+This project is built upon the PyTorch deep learning framework and open-source medical image segmentation project.
 
 Special thanks to the medical imaging research community for their valuable contributions.
 
