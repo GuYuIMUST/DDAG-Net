@@ -1,6 +1,6 @@
 # DDAG-Net
 
-**Dual-Domain Adaptive Gated Network for Pulmonary Embolism Segmentation**
+**DDAG-Net: A novel Dual-Domain Adaptive Decoupling and Arterial Axis-Guided Network for Pulmonary Embolism Detection Segmentation**
 
 > A topology-aware pulmonary embolism segmentation framework with dual-domain adaptive decoupling, vascular skeleton-guided attention, and cross-layer functional gating.
 
@@ -282,29 +282,6 @@ Where:
 - `segs_deform` denotes the topology-aware auxiliary prediction during training
 - `ortho_loss` denotes the soft orthogonal regularization term
 
----
-
-## 📖 Citation
-
-If you find this work useful, please consider citing:
-
-```bibtex
-@article{ddagnet2026,
-  title   = {DDAG-Net: Dual-Domain Adaptive Gated Network for Pulmonary Embolism Segmentation},
-  author  = {Your Name},
-  journal = {Under Review},
-  year    = {2026}
-}
-```
-
----
-
-## 📧 Contact
-
-For questions or collaborations:
-
-- Author: Your Name
-- Email: your_email@example.com
 
 ---
 
@@ -314,10 +291,3 @@ This project is built upon the PyTorch deep learning framework and several open-
 
 Special thanks to the medical imaging research community for their valuable contributions.
 
----
-
-## 📝 Notes
-
-- This README is written according to the provided DDAG-Net network design.
-- The training and inference commands above are template-style examples for a GitHub project page.
-- You can replace placeholders such as author name, email, script names, and checkpoint path with your final project settings.
