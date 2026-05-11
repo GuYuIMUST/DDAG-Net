@@ -286,7 +286,7 @@ Where:
 ---
 ## 📦 Code Availability
 
-This repository currently serves as the **official project page** for PneumoMamba.
+This repository currently serves as the **official project page** for DDAG-Net.
 
 > 🚧 **The full source code, pretrained models, and training scripts will be released after the paper is officially accepted.**
 
